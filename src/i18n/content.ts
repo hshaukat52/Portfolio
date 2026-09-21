@@ -145,7 +145,7 @@ export const content: Record<Locale, Content> = {
           'SQL Server / T-SQL',
           'Entity Framework',
           'Azure Cosmos DB',
-          'Redis',
+          'Redis/ Rabbit MQ / Kafka',
           'PayPal / BNP Axepta',
           'DPD / GLS / OCR',
         ],

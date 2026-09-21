@@ -52,7 +52,7 @@ export const skills = [
       'SQL Server / T-SQL',
       'Entity Framework',
       'Azure Cosmos DB',
-      'Redis',
+      'Redis/ Rabbit MQ / Kafka',
       'PayPal / BNP Axepta',
       'DPD / OCR',
     ],
