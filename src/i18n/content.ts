@@ -209,7 +209,7 @@ export const content: Record<Locale, Content> = {
     projects: [
       {
         name: 'Beneki',
-        tag: '.NET · PayPal · BNP Axepta · DPD · GLS',
+        tag: '.NET · React · PayPal · BNP Axepta · DPD · GLS',
         description:
           'Full-stack commerce system with RESTful APIs, payment gateway integrations, and DPD/GLS shipping for automated labels and tracking.',
         outcome:
@@ -420,7 +420,7 @@ export const content: Record<Locale, Content> = {
     projects: [
       {
         name: 'Beneki',
-        tag: '.NET · PayPal · BNP Axepta · DPD · GLS',
+        tag: '.NET · React · PayPal · BNP Axepta · DPD · GLS',
         description:
           'Système e-commerce full-stack avec API REST, intégrations de paiement et expédition DPD/GLS pour étiquettes et suivi automatisés.',
         outcome:
